@@ -1,0 +1,15 @@
+{
+  "homepage" : "https://thamid.glitch.me/zombies/mods/",
+  "1.8.9" : {
+    "1.1" : "First mod revamp update"
+  },
+  "1.9.4" : {
+    "1.1" : "First mod revamp update"
+  },
+  "promos": {
+    "1.8.9-latest" : "1.1",
+    "1.8.9-recommended" : "1.1",
+    "1.9.4-latest" : "1.1",
+    "1.9.4-recommended" : "1.1"
+  }
+}
