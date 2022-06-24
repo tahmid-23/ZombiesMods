@@ -1,0 +1,19 @@
+{
+  "homepage" : "https://thamid.glitch.me/zombies/mods/",
+  "1.8.9" : {
+    "1.0" : "Initial mod",
+    "1.1" : "Fixed functionality",
+    "1.2" : "Fixed unicode in NOTLAST"
+  },
+  "1.9.4" : {
+    "1.0" : "Initial mod",
+    "1.1" : "Fixed functionality",
+    "1.2" : "Fixed unicode in NOTLAST"
+  },
+  "promos": {
+    "1.8.9-latest" : "1.2",
+    "1.8.9-recommended" : "1.2",
+    "1.9.4-latest" : "1.2",
+    "1.9.4-recommended" : "1.2"
+  }
+}
